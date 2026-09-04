@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Asad Nasrullah Farhan 👋
 
-<!--
-**anfarhan353/anfarhan353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Cybersecurity Specialist | Penetration Tester | Bug Bounty Hunter
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Web Application Security & Penetration Testing.
+- 🌱 I’m currently learning Advanced Threat Analysis & Network Security.
+- 🎯 Goals: Securing web applications and discovering vulnerabilities.
+- 💬 Ask me about: Web Security, SQLi, XSS, and Penetration Testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Tools
+- *Security & Pentesting:* Burp Suite, Nmap, Metasploit, OWASP Top 10
+- *Web Technologies:* HTML, CSS, JavaScript, WordPress
+- *Operating Systems:* Kali Linux, Ubuntu, Windows
+
+---
+
+### 📫 Connect with Me
+- *LinkedIn:* [Asad Nasrullah Farhan](https://www.linkedin.com/in/asad-nasrullah-farhan-9288833b4)
+- *Fiverr:* [cybanf](https://www.fiverr.com/cybanf)
+- *Facebook:* [an.farhan.313](https://web.facebook.com/an.farhan.313)
+- *Email:* anfarhan353@gmail.com
